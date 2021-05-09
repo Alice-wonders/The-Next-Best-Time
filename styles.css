@@ -3,7 +3,9 @@ a:link {
 }
 
 a:visited {
-  color: green;
+  color: #00ced1	;
 }
 
-background-color:lightgoldenrodyellow;
+background-color: {
+	#ff0000
+}
